@@ -159,8 +159,3 @@ This module contains the game's data, including:
 - Puzzles and their solutions.
 - Item descriptions and educational information.
 - Game messages and hints.
-
----
-
-Join the adventure and become a master codebreaker in **Crypto Quest: The Secret Message**!
-```
