@@ -3,14 +3,6 @@
 
 ![Crypto Quest Banner](https://res.cloudinary.com/dl4vtrbqr/image/upload/v1750945726/icon_yik8ls.png)
 
-<p align="center">
-  <a href="https://github.com/OmarDarwish483">
-  </a>
-  <a href="https://github.com/OmarDarwish483/CryptoQuest">
-  </a>
-  <a href="https://www.python.org/">
-  </a>
-</p>
 
 ## 📜 Description
 
