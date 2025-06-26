@@ -1,4 +1,4 @@
-```markdown
+
 # 🔒 Crypto Quest: The Secret Message
 
 ![Crypto Quest Banner](https://res.cloudinary.com/dl4vtrbqr/image/upload/v1750945726/icon_yik8ls.png)
@@ -115,9 +115,8 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 ---
 
 **Crypto Quest: The Secret Message** is more than just a game; it's an educational journey through the world of cryptography. Join the quest and unlock the secrets hidden within!
-```
 
-```markdown
+
 ## 📚 Additional Resources
 
 - **Discrete.ipynb**: A Jupyter notebook demonstrating RSA key generation and encryption/decryption processes.
