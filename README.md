@@ -1,17 +1,14 @@
 ```markdown
 # 🔒 Crypto Quest: The Secret Message
 
-![Crypto Quest Banner](https://via.placeholder.com/800x200?text=Crypto+Quest:+The+Secret+Message)
+![Crypto Quest Banner](https://res.cloudinary.com/dl4vtrbqr/image/upload/v1750945726/icon_yik8ls.png)
 
 <p align="center">
   <a href="https://github.com/OmarDarwish483">
-    <img src="https://img.shields.io/badge/Project%20Lead-Omar%20Hany%20Darwish-blue?style=flat-square" alt="Project Lead">
   </a>
   <a href="https://github.com/OmarDarwish483/CryptoQuest">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square" alt="Contributions Welcome">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.7%2B-blue.svg?style=flat-square" alt="Python Version">
   </a>
 </p>
 
